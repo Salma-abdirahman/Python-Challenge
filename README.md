@@ -36,7 +36,10 @@ Greatest Decrease in Profits: Feb-14 ($-1825558)
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 My Final result seen in budget_data_analysis.txt
+
+
 <img width="518" alt="image" src="https://user-images.githubusercontent.com/111789352/191099258-018ba020-dcf2-4cf2-95b2-eab93a732968.png">
+
 
 Instructions for PyPoll
 
@@ -66,6 +69,8 @@ Winner: Diana DeGette
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 My Final result seen in election_data_analysis.txt
+
+
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/111789352/191099745-e9cf2f61-c3a7-402c-afdf-4782f2d8b6f5.png">
 
 
